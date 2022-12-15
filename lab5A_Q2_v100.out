@@ -1,0 +1,38 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Using 1 gpus
+_____________________________________________________________________________
+Tesla V100-SXM2-16GB_BatchSize_128_GPUS_1
+Epoch:  1|TrainingLoss:1.75|TrainingAccuracy:37.59|EpochTime:52.00s|TestingLoss:1.31|TestingAccuracy:51.13
+Epoch:  2|TrainingLoss:1.11|TrainingAccuracy:60.20|EpochTime:51.00s|TestingLoss:1.01|TestingAccuracy:64.80
+Epoch:  3|TrainingLoss:0.85|TrainingAccuracy:70.12|EpochTime:51.00s|TestingLoss:0.75|TestingAccuracy:73.83
+Epoch:  4|TrainingLoss:0.68|TrainingAccuracy:76.38|EpochTime:51.00s|TestingLoss:0.68|TestingAccuracy:77.15
+Epoch:  5|TrainingLoss:0.58|TrainingAccuracy:80.24|EpochTime:51.00s|TestingLoss:0.65|TestingAccuracy:77.86
+Epoch:  6|TrainingLoss:0.50|TrainingAccuracy:82.75|EpochTime:51.00s|TestingLoss:0.56|TestingAccuracy:81.03
+Epoch:  7|TrainingLoss:0.45|TrainingAccuracy:84.41|EpochTime:51.00s|TestingLoss:0.48|TestingAccuracy:83.81
+Epoch:  8|TrainingLoss:0.40|TrainingAccuracy:86.08|EpochTime:51.00s|TestingLoss:0.52|TestingAccuracy:83.11
+Epoch:  9|TrainingLoss:0.35|TrainingAccuracy:87.81|EpochTime:51.00s|TestingLoss:0.44|TestingAccuracy:85.64
+Epoch: 10|TrainingLoss:0.33|TrainingAccuracy:88.71|EpochTime:51.00s|TestingLoss:0.48|TestingAccuracy:84.96
+Epoch: 11|TrainingLoss:0.29|TrainingAccuracy:89.92|EpochTime:51.00s|TestingLoss:0.38|TestingAccuracy:87.36
+Epoch: 12|TrainingLoss:0.27|TrainingAccuracy:90.65|EpochTime:51.00s|TestingLoss:0.45|TestingAccuracy:85.87
+Epoch: 13|TrainingLoss:0.24|TrainingAccuracy:91.55|EpochTime:51.00s|TestingLoss:0.39|TestingAccuracy:87.80
+Epoch: 14|TrainingLoss:0.21|TrainingAccuracy:92.43|EpochTime:51.00s|TestingLoss:0.39|TestingAccuracy:87.83
+Epoch: 15|TrainingLoss:0.19|TrainingAccuracy:93.38|EpochTime:51.00s|TestingLoss:0.33|TestingAccuracy:89.63
+Epoch: 16|TrainingLoss:0.18|TrainingAccuracy:93.73|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:88.79
+Epoch: 17|TrainingLoss:0.16|TrainingAccuracy:94.46|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:89.14
+Epoch: 18|TrainingLoss:0.14|TrainingAccuracy:94.96|EpochTime:51.00s|TestingLoss:0.34|TestingAccuracy:90.22
+Epoch: 19|TrainingLoss:0.12|TrainingAccuracy:95.67|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:89.40
+Epoch: 20|TrainingLoss:0.11|TrainingAccuracy:96.19|EpochTime:51.00s|TestingLoss:0.33|TestingAccuracy:90.64
+Epoch: 21|TrainingLoss:0.10|TrainingAccuracy:96.37|EpochTime:51.00s|TestingLoss:0.33|TestingAccuracy:90.90
+Epoch: 22|TrainingLoss:0.09|TrainingAccuracy:96.78|EpochTime:51.00s|TestingLoss:0.35|TestingAccuracy:90.81
+Epoch: 23|TrainingLoss:0.08|TrainingAccuracy:97.23|EpochTime:51.00s|TestingLoss:0.35|TestingAccuracy:91.00
+Epoch: 24|TrainingLoss:0.07|TrainingAccuracy:97.66|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:90.68
+Epoch: 25|TrainingLoss:0.05|TrainingAccuracy:98.10|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.25
+Epoch: 26|TrainingLoss:0.05|TrainingAccuracy:98.36|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.33
+Epoch: 27|TrainingLoss:0.04|TrainingAccuracy:98.49|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.26
+Epoch: 28|TrainingLoss:0.04|TrainingAccuracy:98.70|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.65
+Epoch: 29|TrainingLoss:0.03|TrainingAccuracy:98.94|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.79
+Epoch: 30|TrainingLoss:0.03|TrainingAccuracy:99.06|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:91.83
+Epoch: 31|TrainingLoss:0.02|TrainingAccuracy:99.31|EpochTime:51.00s|TestingLoss:0.36|TestingAccuracy:92.19
+0.9218999791145325 92.0
+TTA 92 percentage is: 1603 sec
