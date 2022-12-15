@@ -1,0 +1,27 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"cuda/11.6.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "cuda/11.6.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"cuda/11.6.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "cuda/11.6.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+/opt/slurm/data/slurmd/job28199031/slurm_script: line 21: conda: command not found
+/opt/slurm/data/slurmd/job28199031/slurm_script: line 23: conda: command not found
+/opt/slurm/data/slurmd/job28199031/slurm_script: line 27: nvcc: command not found

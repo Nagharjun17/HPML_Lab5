@@ -1,0 +1,50 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"tqdm"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore-cache load "tqdm"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Files already downloaded and verified
+Files already downloaded and verified
+Using 1 gpus
+_____________________________________________________________________________
+Tesla V100-PCIE-32GB_BatchSize_128_GPUS_1
+Epoch:  1|TrainingLoss:1.79|TrainingAccuracy:36.88|EpochTime:57.00s|TestingLoss:1.42|TestingAccuracy:47.40
+Epoch:  2|TrainingLoss:1.14|TrainingAccuracy:59.11|EpochTime:55.00s|TestingLoss:1.09|TestingAccuracy:61.21
+Epoch:  3|TrainingLoss:0.88|TrainingAccuracy:69.35|EpochTime:56.00s|TestingLoss:0.98|TestingAccuracy:66.93
+Epoch:  4|TrainingLoss:0.70|TrainingAccuracy:75.81|EpochTime:55.00s|TestingLoss:0.87|TestingAccuracy:71.73
+Epoch:  5|TrainingLoss:0.58|TrainingAccuracy:79.80|EpochTime:55.00s|TestingLoss:0.61|TestingAccuracy:79.35
+Epoch:  6|TrainingLoss:0.51|TrainingAccuracy:82.24|EpochTime:56.00s|TestingLoss:0.63|TestingAccuracy:79.32
+Epoch:  7|TrainingLoss:0.44|TrainingAccuracy:84.74|EpochTime:55.00s|TestingLoss:0.49|TestingAccuracy:83.73
+Epoch:  8|TrainingLoss:0.40|TrainingAccuracy:86.14|EpochTime:56.00s|TestingLoss:0.44|TestingAccuracy:85.57
+Epoch:  9|TrainingLoss:0.37|TrainingAccuracy:87.40|EpochTime:55.00s|TestingLoss:0.51|TestingAccuracy:82.91
+Epoch: 10|TrainingLoss:0.32|TrainingAccuracy:88.71|EpochTime:56.00s|TestingLoss:0.46|TestingAccuracy:85.60
+Epoch: 11|TrainingLoss:0.29|TrainingAccuracy:89.91|EpochTime:55.00s|TestingLoss:0.42|TestingAccuracy:86.50
+Epoch: 12|TrainingLoss:0.27|TrainingAccuracy:90.68|EpochTime:55.00s|TestingLoss:0.39|TestingAccuracy:87.11
+Epoch: 13|TrainingLoss:0.25|TrainingAccuracy:91.18|EpochTime:56.00s|TestingLoss:0.38|TestingAccuracy:87.73
+Epoch: 14|TrainingLoss:0.24|TrainingAccuracy:91.61|EpochTime:56.00s|TestingLoss:0.40|TestingAccuracy:86.96
+Epoch: 15|TrainingLoss:0.21|TrainingAccuracy:92.67|EpochTime:55.00s|TestingLoss:0.39|TestingAccuracy:87.88
+Epoch: 16|TrainingLoss:0.19|TrainingAccuracy:93.31|EpochTime:56.00s|TestingLoss:0.36|TestingAccuracy:88.91
+Epoch: 17|TrainingLoss:0.17|TrainingAccuracy:93.84|EpochTime:55.00s|TestingLoss:0.38|TestingAccuracy:89.09
+Epoch: 18|TrainingLoss:0.16|TrainingAccuracy:94.53|EpochTime:56.00s|TestingLoss:0.35|TestingAccuracy:89.57
+Epoch: 19|TrainingLoss:0.15|TrainingAccuracy:94.72|EpochTime:56.00s|TestingLoss:0.39|TestingAccuracy:88.85
+Epoch: 20|TrainingLoss:0.13|TrainingAccuracy:95.39|EpochTime:56.00s|TestingLoss:0.35|TestingAccuracy:90.19
+Epoch: 21|TrainingLoss:0.11|TrainingAccuracy:95.97|EpochTime:56.00s|TestingLoss:0.34|TestingAccuracy:90.71
+Epoch: 22|TrainingLoss:0.11|TrainingAccuracy:96.22|EpochTime:56.00s|TestingLoss:0.37|TestingAccuracy:89.82
+Epoch: 23|TrainingLoss:0.09|TrainingAccuracy:96.80|EpochTime:56.00s|TestingLoss:0.34|TestingAccuracy:90.80
+Epoch: 24|TrainingLoss:0.08|TrainingAccuracy:97.10|EpochTime:56.00s|TestingLoss:0.39|TestingAccuracy:90.45
+Epoch: 25|TrainingLoss:0.07|TrainingAccuracy:97.45|EpochTime:56.00s|TestingLoss:0.35|TestingAccuracy:91.06
+Epoch: 26|TrainingLoss:0.06|TrainingAccuracy:97.88|EpochTime:56.00s|TestingLoss:0.35|TestingAccuracy:91.21
+Epoch: 27|TrainingLoss:0.05|TrainingAccuracy:98.12|EpochTime:56.00s|TestingLoss:0.38|TestingAccuracy:90.90
+Epoch: 28|TrainingLoss:0.04|TrainingAccuracy:98.50|EpochTime:56.00s|TestingLoss:0.36|TestingAccuracy:91.60
+Epoch: 29|TrainingLoss:0.04|TrainingAccuracy:98.68|EpochTime:55.00s|TestingLoss:0.36|TestingAccuracy:91.55
+Epoch: 30|TrainingLoss:0.03|TrainingAccuracy:98.91|EpochTime:55.00s|TestingLoss:0.36|TestingAccuracy:91.80
+Epoch: 31|TrainingLoss:0.03|TrainingAccuracy:98.99|EpochTime:56.00s|TestingLoss:0.37|TestingAccuracy:92.14
+0.9213999772071838 92.0
+TTA 92 percentage is: 1739 sec
